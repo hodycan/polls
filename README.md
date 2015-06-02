@@ -1,0 +1,2 @@
+# webpoll
+from Django documentation
